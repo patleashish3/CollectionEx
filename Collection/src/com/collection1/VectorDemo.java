@@ -15,6 +15,9 @@ public class VectorDemo {
 		System.out.println(v);
 		System.out.println(v.capacity());
 		
+		v.add(null);
+		System.out.println(v);
+		
 		v.remove("A");
 		System.out.println("remove: "+v);
 		

@@ -33,7 +33,7 @@ public class LinkedlistDemo {
 		System.out.println("Array Size: "+l.size());
 		
 		l.removeFirst();
-		System.out.println("RemoveLast Array: "+l);
+		System.out.println("RemoveFirst Array: "+l);
 		
 		//getFirst();
 		System.out.println("getFirst Array: "+l.getFirst());

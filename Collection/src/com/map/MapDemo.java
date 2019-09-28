@@ -19,7 +19,7 @@ public class MapDemo {
 		//System.out.println(m.remove("103", "Ashish"));
 		//System.out.println(m.replace("103", "Kunal"));
 		//System.out.println(m.containsKey("105"));
-		System.out.println(m.containsValue("Kunal"));
+		System.out.println("absg:"+m.containsValue("Kunal"));
 		System.out.println(m.isEmpty());
 		System.out.println(m.size());
 		System.out.println(m.keySet());
